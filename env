@@ -1,0 +1,16 @@
+# Email Configuration
+# SMTP_SERVER=smtp.gmail.com
+# SMTP_PORT=587
+SMTP_USERNAME=menatiyashashwini@gmail.com
+SMTP_PASSWORD=ekhmfhffxtbgsbuk
+HR_EMAIL_SENDER=menatiyashashwini@gmail.com
+COMPANY_NAME=nxtwave
+COMPANY_WEBSITE=https://ccbp.in
+INTERVIEW_RESPONSE_DAYS=2
+EMAIL_TEST_MODE=false
+# In your .env file:
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=465  # Change to SSL port
+SMTP_USE_SSL=true  # Add this line
+# Gemini API
+GEMINI_API_KEY=AIzaSyBMeYWiAywfSvaYI55LpoVV6FL2qIsljPI
